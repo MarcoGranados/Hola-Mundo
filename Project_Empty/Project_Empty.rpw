@@ -1,0 +1,60 @@
+I-Logix-RPY-Archive version 8.14.0 * 9810360
+{ CGEMdiWorkspace 
+	- stubList = { IRPYRawContainer 
+		- size = 0;
+	}
+	- isLoadOnDemand = 0;
+	- myViewsWithID = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 2;
+				- m_showCmd = 3;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 26;
+				- m_nTop = 26;
+				- m_nRight = 1097;
+				- m_nBottom = 450;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IStructureDiagram";
+				- _name = "Structure1";
+				- _id = GUID 16c8052f-8f90-4ec5-8cfc-c0a081131f84;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1258 611 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 0;
+			- m_bIsActiveView = 1;
+		}
+	}
+	- _fullName = "G:\\RhapsodyEmpty\\Project_Empty\\Project_Empty";
+	- m_SearchScopeList = { IRPYRawContainer 
+		- size = 0;
+	}
+	- bUsingBrowserCustomView = 1;
+	- bApplyOnDiagrams = 0;
+	- liCustomViewIDs = { IRPYRawContainer 
+		- size = 0;
+	}
+	- mapOslcRmCollections = { IRPYRawContainer 
+		- size = 0;
+	}
+
+	- m_favoritesTree = {
+		count=1;
+		{ - favoritesItem
+			generation = 0;
+			name = Favorites;
+			idOrFolder = folder;
+		}
+	}
+
+}
+

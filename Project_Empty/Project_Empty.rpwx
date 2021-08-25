@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0.1</version>
+	<lang>*</lang>
+	<BuildNo>202006101734</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<CGEMdiWorkspace type="e">
+			<stubList type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</stubList>
+			<isLoadOnDemand type="a">0</isLoadOnDemand>
+			<myViewsWithID type="c">
+				<IRPYRawContainer type="e">
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">182</m_nLeft>
+								<m_nTop type="a">182</m_nTop>
+								<m_nRight type="a">1246</m_nRight>
+								<m_nBottom type="a">598</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Empty_rpy\FunctionalAllocation.sbsx</_hfilename>
+								<_hsubsystem type="a">FunctionalAllocation</_hsubsystem>
+								<_hname type="a">bdd_Functional Allocation</_hname>
+								<_hid type="a">GUID e25685e9-e550-4a6d-82ef-cbb10676118d</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">285 100 </_UpLeft>
+						<_DownRight type="a">1312 456 </_DownRight>
+						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">78</m_nLeft>
+								<m_nTop type="a">78</m_nTop>
+								<m_nRight type="a">1142</m_nRight>
+								<m_nBottom type="a">494</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Empty_rpy\FunctionalArchitecture.sbsx</_hfilename>
+								<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
+								<_hname type="a">bdd_FunctionalArchitecture</_hname>
+								<_hid type="a">GUID 0cd8e686-eea9-4b18-8bc3-9a441c04bc98</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 160 </_UpLeft>
+						<_DownRight type="a">1027 516 </_DownRight>
+						<m_nDiagramIndex type="a">10</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">182</m_nLeft>
+								<m_nTop type="a">182</m_nTop>
+								<m_nRight type="a">1246</m_nRight>
+								<m_nBottom type="a">598</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMSC</_hm2Class>
+								<_hfilename type="a">.\Project_Empty_rpy\FunctionalArchitecture.sbsx</_hfilename>
+								<_hsubsystem type="a">FunctionalArchitecture</_hsubsystem>
+								<_hname type="a">sqd_ButtonPressSequence</_hname>
+								<_hid type="a">GUID f51d6387-40f1-44c2-b16a-8c93f29e15b7</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1027 336 </_DownRight>
+						<m_nDiagramIndex type="a">15</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">156</m_nLeft>
+								<m_nTop type="a">156</m_nTop>
+								<m_nRight type="a">1168</m_nRight>
+								<m_nBottom type="a">572</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IActivityDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Empty_rpy\PhysicalArchitecture.sbsx</_hfilename>
+								<_hsubsystem type="a">PhysicalArchitecture</_hsubsystem>
+								<_hclass type="a">BatteryHandler</_hclass>
+								<_hname type="a">ActivityDiagram</_hname>
+								<_hid type="a">GUID 76773d28-024c-45a7-beab-5e99d363afdd</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">975 356 </_DownRight>
+						<m_nDiagramIndex type="a">7</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">130</m_nLeft>
+								<m_nTop type="a">130</m_nTop>
+								<m_nRight type="a">1200</m_nRight>
+								<m_nBottom type="a">546</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IActivityDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Empty_rpy\PhysicalArchitecture.sbsx</_hfilename>
+								<_hsubsystem type="a">PhysicalArchitecture</_hsubsystem>
+								<_hclass type="a">BatteryHandler</_hclass>
+								<_hname type="a">ActivityDiagram</_hname>
+								<_hid type="a">GUID 408a8153-0b29-483f-a40c-abea9f355582</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1033 356 </_DownRight>
+						<m_nDiagramIndex type="a">8</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">104</m_nLeft>
+								<m_nTop type="a">104</m_nTop>
+								<m_nRight type="a">1174</m_nRight>
+								<m_nBottom type="a">520</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IStructureDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Empty_rpy\PhysicalArchitecture.sbsx</_hfilename>
+								<_hsubsystem type="a">PhysicalArchitecture</_hsubsystem>
+								<_hclass type="a">BatteryHandler</_hclass>
+								<_hname type="a">ibd_BatteryHandler</_hname>
+								<_hid type="a">GUID e396304e-9424-4ff8-9735-7c2feb30a8d5</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">132 0 </_UpLeft>
+						<_DownRight type="a">1165 356 </_DownRight>
+						<m_nDiagramIndex type="a">9</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">156</m_nLeft>
+								<m_nTop type="a">156</m_nTop>
+								<m_nRight type="a">1251</m_nRight>
+								<m_nBottom type="a">572</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IStateChartDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Empty_rpy\PhysicalArchitecture.sbsx</_hfilename>
+								<_hsubsystem type="a">PhysicalArchitecture</_hsubsystem>
+								<_hclass type="a">ButtonManager</_hclass>
+								<_hname type="a">StatechartDiagram</_hname>
+								<_hid type="a">GUID 49f4b66a-ddb1-4762-9430-68f9b6fe6b16</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">-47 0 </_UpLeft>
+						<_DownRight type="a">3127 1068 </_DownRight>
+						<m_nDiagramIndex type="a">4</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">0</m_nLeft>
+								<m_nTop type="a">0</m_nTop>
+								<m_nRight type="a">1064</m_nRight>
+								<m_nBottom type="a">416</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Empty_rpy\PhysicalArchitecture.sbsx</_hfilename>
+								<_hsubsystem type="a">PhysicalArchitecture</_hsubsystem>
+								<_hname type="a">bdd_Connections</_hname>
+								<_hid type="a">GUID 82ea5039-4010-465c-8fa9-3b94914548fa</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 270 </_UpLeft>
+						<_DownRight type="a">1027 626 </_DownRight>
+						<m_nDiagramIndex type="a">14</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">78</m_nLeft>
+								<m_nTop type="a">78</m_nTop>
+								<m_nRight type="a">1142</m_nRight>
+								<m_nBottom type="a">494</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Empty_rpy\PhysicalArchitecture.sbsx</_hfilename>
+								<_hsubsystem type="a">PhysicalArchitecture</_hsubsystem>
+								<_hname type="a">bdd_LayerDiagram</_hname>
+								<_hid type="a">GUID c48f3c8a-3381-4a1f-928e-680ea4fc5374</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 70 </_UpLeft>
+						<_DownRight type="a">1027 426 </_DownRight>
+						<m_nDiagramIndex type="a">2</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">2</m_nFlags>
+								<m_showCmd type="a">3</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">208</m_nLeft>
+								<m_nTop type="a">208</m_nTop>
+								<m_nRight type="a">1272</m_nRight>
+								<m_nBottom type="a">624</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Empty_rpy\PhysicalArchitecture.sbsx</_hfilename>
+								<_hsubsystem type="a">PhysicalArchitecture</_hsubsystem>
+								<_hname type="a">bdd_PhysicalInterfaces</_hname>
+								<_hid type="a">GUID 5d18d9a2-3e79-442d-b3c8-80613dda9d23</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 720 </_UpLeft>
+						<_DownRight type="a">1603 1524 </_DownRight>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<m_bIsActiveView type="a">1</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">52</m_nLeft>
+								<m_nTop type="a">52</m_nTop>
+								<m_nRight type="a">1116</m_nRight>
+								<m_nBottom type="a">468</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Empty_rpy\PhysicalArchitecture.sbsx</_hfilename>
+								<_hsubsystem type="a">PhysicalArchitecture</_hsubsystem>
+								<_hname type="a">bdd_SW_Decomposition</_hname>
+								<_hid type="a">GUID 3d2436a3-3137-452e-8ba4-cfe7920dfc60</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">-13 100 </_UpLeft>
+						<_DownRight type="a">1014 456 </_DownRight>
+						<m_nDiagramIndex type="a">13</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">182</m_nLeft>
+								<m_nTop type="a">182</m_nTop>
+								<m_nRight type="a">1194</m_nRight>
+								<m_nBottom type="a">598</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IActivityDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Empty_rpy\PhysicalArchitecture.sbsx</_hfilename>
+								<_hsubsystem type="a">PhysicalArchitecture</_hsubsystem>
+								<_hclass type="a">iBattery</_hclass>
+								<_hname type="a">ActivityDiagram</_hname>
+								<_hid type="a">GUID 1cd50905-dcb7-4a81-8e9a-7eb988a8cdf8</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 30 </_UpLeft>
+						<_DownRight type="a">975 386 </_DownRight>
+						<m_nDiagramIndex type="a">6</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">208</m_nLeft>
+								<m_nTop type="a">208</m_nTop>
+								<m_nRight type="a">1220</m_nRight>
+								<m_nBottom type="a">624</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IActivityDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Empty_rpy\PhysicalArchitecture.sbsx</_hfilename>
+								<_hsubsystem type="a">PhysicalArchitecture</_hsubsystem>
+								<_hclass type="a">iBattery</_hclass>
+								<_hname type="a">ActivityDiagram</_hname>
+								<_hid type="a">GUID 8f8e54a3-e677-4306-b058-b2f02d29293f</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">2925 1068 </_DownRight>
+						<m_nDiagramIndex type="a">5</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">130</m_nLeft>
+								<m_nTop type="a">130</m_nTop>
+								<m_nRight type="a">1194</m_nRight>
+								<m_nBottom type="a">546</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Empty_rpy\SystemDefinition.sbsx</_hfilename>
+								<_hsubsystem type="a">SystemDefinition</_hsubsystem>
+								<_hname type="a">bdd_SystemDefinition</_hname>
+								<_hid type="a">GUID 37add977-7dbf-4e42-875b-7d4eebe30671</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 60 </_UpLeft>
+						<_DownRight type="a">1027 416 </_DownRight>
+						<m_nDiagramIndex type="a">11</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">104</m_nLeft>
+								<m_nTop type="a">104</m_nTop>
+								<m_nRight type="a">1168</m_nRight>
+								<m_nBottom type="a">520</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IUCDiagram</_hm2Class>
+								<_hfilename type="a">.\Project_Empty_rpy\UseCaseAnalisis.sbsx</_hfilename>
+								<_hsubsystem type="a">UseCaseAnalisis</_hsubsystem>
+								<_hname type="a">ucd_UseCaseAnalisis_Fob</_hname>
+								<_hid type="a">GUID f41f6eb6-08b0-42af-9d44-e8b232d15c04</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 -30 </_UpLeft>
+						<_DownRight type="a">1027 326 </_DownRight>
+						<m_nDiagramIndex type="a">12</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+				</IRPYRawContainer>
+			</myViewsWithID>
+			<_fullName type="a">G:\RhapsodyEmpty\EjemploDeLosVideosSysML\Project_Empty\Project_Empty</_fullName>
+			<m_SearchScopeList type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</m_SearchScopeList>
+			<bUsingBrowserCustomView type="a">1</bUsingBrowserCustomView>
+			<bApplyOnDiagrams type="a">0</bApplyOnDiagrams>
+			<liCustomViewIDs type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</liCustomViewIDs>
+			<mapOslcRmCollections type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</mapOslcRmCollections>
+			<favoritesItem type="e">
+				<generation type="a">0</generation>
+				<name type="a">Favorites</name>
+				<idOrFolder type="a">folder</idOrFolder>
+			</favoritesItem>
+			
+		</CGEMdiWorkspace>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
